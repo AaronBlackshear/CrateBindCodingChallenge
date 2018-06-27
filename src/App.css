@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  display: flex;
+  transition: linear .5s;
+}
+
+.bg-section{
+  width: calc(100vw / 7);
+  height: 100vh;
+}
